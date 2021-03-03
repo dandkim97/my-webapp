@@ -13,7 +13,7 @@ export default class Introduction extends Component {
                   <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                     <div className="slider-text-inner js-fullheight">
                       <div className="desc">
-                        <h1>Hello! <br /> I want to be... </h1>
+                        <h1>Hi I'm Dan</h1>
                       </div>
                     </div>
                   </div>
@@ -27,7 +27,7 @@ export default class Introduction extends Component {
                   <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                     <div className="slider-text-inner">
                       <div className="desc">
-                        <h1>A Great Software Engineer!</h1>
+                        <h1>Welcome to my HomePage</h1>
                         <p><a className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3" /></a></p>
                       </div>
                     </div>
